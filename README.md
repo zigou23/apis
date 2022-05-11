@@ -98,6 +98,12 @@ https://thisanimedoesnotexist.ai
 https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/json/poet.tang.46000.json
 ```
 
+[检讨书](https://jts.egg404.cn/)
+
+```
+https://jts.egg404.cn/article.php?title=&length=500&type=21&title=&length=500&type=3
+```
+
 
 
 ## 其它
