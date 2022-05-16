@@ -15,7 +15,7 @@ https://deno.com/deploy/docs/pricing-and-limits
 
 ## 三方api
 
-Google: 数学函数 + 二维码
+#### Google: 数学函数 + 二维码
 
 ```
 参考
@@ -26,7 +26,7 @@ https://chart.googleapis.com/chart?cht=tx&chl=x%20=%20%5Cfrac%7B-b%20%5Cpm%20%5C
 https://chart.googleapis.com/chart?chs=500x500&cht=qr&chl=Hello+worlsd&chld=L|1&choe=UTF-8
 ```
 
-二维码 qrcode
+#### 二维码 qrcode
 
 ```
 https://explorer.verus.io/qr/Hello-world
@@ -38,7 +38,7 @@ https://img{1,2,3,4}.doubanio.com/dae/qrgen/v2/Hello-world.png
 https://www.lofter.com/genBitmaxImage?url=Hello-world.png
 ```
 
-thum:页面生成缩略图
+#### thum:页面生成缩略图
 
 ```
 //文档
@@ -48,7 +48,7 @@ https://image.thum.io/get/https://github.com
 https://image.thum.io/get/width/100/crop/600/https://www.google.com
 ```
 
-IP/whoise请求
+#### IP/whoise请求
 
 ```
 //ipinfo
@@ -72,7 +72,7 @@ https://api.bgpview.io/asn/as13335 & prefix/2a02:ec80::/32 & ip/1.1.1.1
 https://api.hackertarget.com/aslookup/?q= as13335 详细 1.1.1.1 信息少
 ```
 
-unsplash:随机图片
+#### unsplash:随机图片
 
 ```
 https://unsplash.com/developers
@@ -80,7 +80,7 @@ https://source.unsplash.com/1600x900/?nature,water,sky,blue,sea
 https://source.unsplash.com/1920x1080/?nature,wallpaper,evening
 ```
 
-获取随机头像
+#### 获取随机头像
 
 ```
 //正常人的
@@ -91,17 +91,24 @@ https://www.thiswaifudoesnotexist.net/example-36120.jpg
 https://thisanimedoesnotexist.ai
 ```
 
-唐诗宋词
+#### 唐诗宋词
 
 ```
 // github.com/chinese-poetry/chinese-poetry
 https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/json/poet.tang.46000.json
 ```
 
-[检讨书](https://jts.egg404.cn/)
+#### [检讨书](https://jts.egg404.cn/)
 
 ```
 https://jts.egg404.cn/article.php?title=&length=500&type=21&title=&length=500&type=3
+```
+
+#### 货币换算
+
+```
+https://webapi.huilv.cc/api/exchange?num=5000&chiyouhuobi=JPY&duihuanhuobi=CNY&type=1&callback=jisuanjieguo
+https://webapi.huilv.cc/api/exchange?num=1&chiyouhuobi=HKD&duihuanhuobi=KRW&type=1&callback=jisuanjieguo
 ```
 
 
