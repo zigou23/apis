@@ -5,7 +5,7 @@ cdn节点收集 (不分先后)
 ```web-idl
 // gh/npm
 cdn.jsdelivr.net //已无法访问
-testingcf.test1. gcore.fastly.(quantil.)
+testingcf.test1. gcore.fastly.(quantil.(thisisunsafe跳过))
 //gh
 statically.io //cdn已无法访问
 //npm
