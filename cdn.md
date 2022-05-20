@@ -7,7 +7,7 @@ cdn节点收集 (不分先后)
 cdn.jsdelivr.net //已无法访问
 testingcf.test1. gcore.fastly.(quantil.(thisisunsafe跳过))
 //gh
-statically.io //cdn已无法访问
+statically.io(cdn.***) //cdn已无法访问(非官方cdn.staticaly.com)
 //npm
 npm.elemecdn.com //饿了么
 
